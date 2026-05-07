@@ -12,4 +12,4 @@ Se encontraron 8 problemas técnicos en el archivo `src/products.js`:
     * `no-var`: Uso inesperado de 'var', se recomienda 'let' o 'const' (Líneas 3, 11, 12, 26).
 
 > [!NOTE]
-> [cite_start]Estos hallazgos representan **Defectos** (bugs en el código) que deben ser corregidos para evitar una **Falla** en el sistema de producción de InkaRetail[cite: 270, 278, 296].
+> Estos hallazgos representan **Defectos** (bugs en el código) que deben ser corregidos para evitar una **Falla** en el sistema de producción de InkaRetail[cite: 270, 278, 296].

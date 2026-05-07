@@ -6,6 +6,7 @@ module.exports = [
         languageOptions: {
         ecmaVersion: 2021,
         globals: {
+        console: "readonly",
         require: "readonly",
         module: "readonly",
         exports: "readonly",

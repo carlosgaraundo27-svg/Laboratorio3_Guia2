@@ -8,8 +8,8 @@ const products = [
 ]
 // Busca un producto por ID
 function getProductById(id) {
-const result = null;
-for (const i = 0; i < products.length; i++) {
+let result = null;
+for (let i = 0; i < products.length; i++) {
 console.log("Iteración:", i);
 if (products[i].id ===id) {
 result = products[i];
